@@ -1,0 +1,17 @@
+{
+  "name": "peel-marketplace",
+  "description": "Personal Claude Code plugin marketplace",
+  "owner": {
+    "name": "peel"
+  },
+  "plugins": [
+    {
+      "name": "peel",
+      "description": "Orchestration skills for automated development lifecycle with multi-model support",
+      "source": "github:peel/peel-orchestrator",
+      "author": {
+        "name": "peel"
+      }
+    }
+  ]
+}
