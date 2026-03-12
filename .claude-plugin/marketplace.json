@@ -8,7 +8,7 @@
     {
       "name": "peel",
       "description": "Orchestration skills for automated development lifecycle with multi-model support",
-      "source": "github:peel/peel-orchestrator",
+      "source": "github:peel/peel",
       "author": {
         "name": "peel"
       }
